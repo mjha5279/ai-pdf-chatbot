@@ -5,7 +5,7 @@ import streamlit as st
 # -----------------------------
 # Configure Gemini API Key
 # -----------------------------
-genai.configure(api_key="AIzaSyD2xR45EOdM6N01COQ8FemYPG3A823Pa_0")   # put your valid key here
+genai.configure(api_key="AIzaSyDeo0baxU6SK3fi0pJQP_JBWlfAv81mX_4")   # put your valid key here
 
 # -----------------------------
 # Extract Text From PDF
